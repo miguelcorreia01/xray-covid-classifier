@@ -1,6 +1,6 @@
 # **COVID-19 X-Ray Classifier**
 
-This project is a Python application that classifies X-ray images as **CovidPositive** or **CovidNegative** using a ResNet18 model. It includes functionality to train the model, validate it, and evaluate new images.
+A Python-based deep learning application that classifies X-ray images as **CovidPositive** or **CovidNegative** using a ResNet18 model. It includes functionality to train the model, validate it, and evaluate new images.
 
 ---
 
